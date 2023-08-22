@@ -24,11 +24,14 @@ warnings.filterwarnings('ignore')
 import sys, time, os
 os.environ['TZ'] = 'Asia/Calcutta'
 time.tzset() 
+sys.path.append('..')
 
+# project directory path
+project_dir = os.getcwd()
 
 
 # %%
-start_date = datetime.now().date() + timedelta(days=-25)   
+start_date = datetime.now().date() + timedelta(days=-27)   
 end_date =  datetime.now().date() + timedelta(days=2)   
 
 start_date_str = start_date.strftime("%d-%m-%Y")    
@@ -37,8 +40,8 @@ end_date_str = end_date.strftime("%d-%m-%Y")
 
 file_path = '/home/shikhar/dam_data'
 if os.path.exists(file_path):
-    data = pd.read_pickle('/home/shikhar/dam_data')
-    rtm_data = pd.read_pickle('/home/shikhar/rtm_data')
+    data = pd.read_pickle(os.path.join(project_dir, 'dam_data'))
+    rtm_data = pd.read_pickle(os.path.join(project_dir, 'rtm_data'))
 
 else:    
     # %% [markdown]
