@@ -27,16 +27,16 @@ This Streamlit app displays forecast vs. actual prices for the IEX Day-Ahead and
 
 ## Web App
 
-Access the deployed Streamlit web app [here](https://iex-app.streamlit.app/)
+Access the deployed Streamlit web app [here](https://iex-app.streamlit.app/).
 
 ## Portfolio
 
-Check out my portfolio [here](https://amanbhatt97.github.io/portfolio/)
+Check out my portfolio [here](https://amanbhatt97.github.io/portfolio/).
 
 ## Contact
 
 For any questions or suggestions, please contact:
 
-Aman Bhatt  
+Name: Aman Bhatt  
 Email: amanbhatt.1997.ab@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/amanbhatt1997/
