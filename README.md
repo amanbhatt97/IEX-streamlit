@@ -38,5 +38,5 @@ Check out my portfolio [here](https://amanbhatt97.github.io/portfolio/)
 For any questions or suggestions, please contact:
 
 Aman Bhatt  
-Email: amanbhatt.1997.ab@gmail.com
+Email: amanbhatt.1997.ab@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/amanbhatt1997/
