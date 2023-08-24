@@ -39,4 +39,4 @@ For any questions or suggestions, please contact:
 
 Aman Bhatt  
 Email: amanbhatt.1997.ab@gmail.com<br>
-Linkedin: https://www.linkedin.com/in/amanbhatt1997/
+LinkedIn: https://www.linkedin.com/in/amanbhatt1997/
