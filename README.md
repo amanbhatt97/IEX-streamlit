@@ -45,8 +45,7 @@ Check out my portfolio [here](https://amanbhatt97.github.io/portfolio/).
 
 ## Contact
 
-For any questions or suggestions, please contact:
+Feel free to reach out to me if you have any questions or feedback. You can find me on:
 
-Name: Aman Bhatt  
-Email: amanbhatt.1997.ab@gmail.com<br>
-LinkedIn: https://www.linkedin.com/in/amanbhatt1997/
+- Email: amanbhatt.1997.ab@gmail.com
+- LinkedIn: [Aman Bhatt](https://www.linkedin.com/in/amanbhatt1997/)
