@@ -2,6 +2,16 @@
 
 Welcome to the IEX Price Forecasting Dashboard! This dashboard provides insights into the Day-Ahead and Real-Time Market data for the Indian Energy Exchange.
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Web App](#web-app)
+- [Portfolio](#portfolio)
+- [Contact](#contact)
+
 ## Introduction
 
 This Streamlit app displays forecast vs. actual prices for the IEX Day-Ahead and Real-Time Markets. It allows you to explore how well the forecasted prices match the actual prices.
