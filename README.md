@@ -31,7 +31,7 @@ Access the deployed Streamlit web app [here](https://iex-app.streamlit.app/)
 
 ## Portfolio
 
-Check out my portfolio [here]([https://your-portfolio-link.com/](https://amanbhatt97.github.io/portfolio/))
+Check out my portfolio [here](https://amanbhatt97.github.io/portfolio/)
 
 ## Contact
 
