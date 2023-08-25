@@ -31,7 +31,7 @@ project_dir = os.getcwd()
 
 
 # %%
-start_date = datetime.now().date() + timedelta(days=-27)   
+start_date = datetime.now().date() + timedelta(days=-30)   
 end_date =  datetime.now().date() + timedelta(days=2)   
 
 start_date_str = start_date.strftime("%d-%m-%Y")    
@@ -262,7 +262,7 @@ if plot_type_selected == 'Day-Ahead Market':
         date_list = pd.date_range(start=start_date, end=datetime.now()+timedelta(days=1), freq='D').date
         with st.sidebar:
             st.sidebar.markdown('<h2 style="text-align: center;">Date Range</h2>', unsafe_allow_html=True)
-            start_date_selected = st.selectbox("Start Date", date_list, index=0)
+            start_date_selected = st.selectbox("Start Date", date_list, index=len(date_list)-5)
             end_date_selected = st.selectbox("End Date", date_list, index=len(date_list)-1)
         data_filtered = data[(data.datetime.dt.date >= start_date_selected) & (data.datetime.dt.date <= end_date_selected)]
         if data_filtered.empty:
@@ -321,7 +321,7 @@ if plot_type_selected == 'Real-Time Market':
         with st.sidebar:
             st.markdown("---")
             st.sidebar.markdown('<h2 style="text-align: center;">Date Range</h2>', unsafe_allow_html=True)
-            start_date_selected = st.selectbox("Start Date", date_list, index=0)
+            start_date_selected = st.selectbox("Start Date", date_list, index=len(date_list)-5)
             end_date_selected = st.selectbox("End Date", date_list, index=len(date_list)-1)
         rtm_filtered = rtm_data[(rtm_data.datetime.dt.date >= start_date_selected) & (rtm_data.datetime.dt.date <= end_date_selected)]
         if rtm_filtered.empty:
