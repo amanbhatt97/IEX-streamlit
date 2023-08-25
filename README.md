@@ -45,4 +45,4 @@ Check out my portfolio [here](https://amanbhatt97.github.io/portfolio/).
 Feel free to reach out to me if you have any questions or feedback. You can find me on:
 
 - Email: amanbhatt.1997.ab@gmail.com
-- LinkedIn: [Aman Bhatt](https://www.linkedin.com/in/amanbhatt1997/)
+- LinkedIn: [amanbhatt97](https://www.linkedin.com/in/amanbhatt1997/)
