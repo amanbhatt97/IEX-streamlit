@@ -31,7 +31,7 @@ project_dir = os.getcwd()
 
 
 # %%
-start_date = datetime.now().date() + timedelta(days=-30)   
+start_date = datetime.now().date() + timedelta(days=-28)   
 end_date =  datetime.now().date() + timedelta(days=2)   
 
 start_date_str = start_date.strftime("%d-%m-%Y")    
